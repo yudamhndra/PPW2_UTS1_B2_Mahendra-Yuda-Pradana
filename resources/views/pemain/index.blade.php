@@ -3,7 +3,7 @@
 @section('content')
     @include('pemain.header_pemain')
     <div class="container">
-            <h1 class="text-center">Daftar Barang</h1>
+            <h1 class="text-center">Daftar Pemain</h1>
             <div class="table-responsive mx-auto">
                 <table class="table table-striped">
                     <thead>
